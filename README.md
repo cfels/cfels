@@ -1,16 +1,28 @@
-## Hi there 👋
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=cfels&show_icons=true&title_color=cba6f7&text_color=cba6f7&icon_color=cba6f7&bg_color=191825&border_color=45475A" />
+<br>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=cfels.visitor-badge&left_text=visitors&left_color=%23000000&right_color=%23cba6f7&radius=6" />
+</p>
 
-<!--
-**cfels/cfels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi ヾ(＾∇＾)<br>
+**i'm moxiu**<br>
 
-Here are some ideas to get you started:
+what i do?<br>
+well whatever that come's to my mind, Full time Larper
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### my projects
+[**nixos-dots**](https://github.com/cfels/nixos-dots) - my (W.I.P) nixOS dotfiles (they look good check them out!)
+
+that's it so far
+
+### what i use?
+i use NixOS (rest of stuff is under this line)<br>
+editor: neovim (with lazyvim)<br>
+shell: fish (best shell)<br>
+wm: hyprland
+
+### Contact
+**telegram**: [link](https://t.me/cfelz)<br>
+**discord**: dildsong<br>
+**email**: `moxiix {at} proton {dot} me`<br>
+**phone**: nahh<br>
