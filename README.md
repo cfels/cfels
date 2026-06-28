@@ -22,7 +22,4 @@ shell: fish (best shell)<br>
 wm: hyprland
 
 ### Contact
-**telegram**: [link](https://t.me/cfelz)<br>
-**discord**: dildsong<br>
-**email**: `moxiix {at} proton {dot} me`<br>
-**phone**: nahh<br>
+for more stuff about me, and contacting me please go to: [moxiu.vacpro.fyi](https://moxiu.vacpro.fyi)
