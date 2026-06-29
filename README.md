@@ -16,7 +16,7 @@ well whatever that come's to my mind, Full time Larper
 that's it so far
 
 ### what i use?
-i use NixOS (rest of stuff is under this line)<br>
+i use NixOS (rest of the stuff is under this line)<br>
 editor: neovim (with lazyvim)<br>
 shell: fish (best shell)<br>
 wm: hyprland
