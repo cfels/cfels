@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github-stats-extended.vercel.app/api?username=cfels&show_icons=true&title_color=cba6f7&text_color=cba6f7&icon_color=cba6f7&bg_color=191825&border_color=45475A" />
+<img src="https://github-stats-extended.vercel.app/api?username=cfels&show_icons=true&include_all_commits=true&title_color=cba6f7&text_color=cba6f7&icon_color=cba6f7&bg_color=191825&border_color=45475A" />
 <br>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=cfels.visitor-badge&left_text=visitors&left_color=%23000000&right_color=%23cba6f7&radius=6" />
 </p>
