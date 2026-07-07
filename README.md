@@ -23,3 +23,5 @@ wm: hyprland
 
 ### Contact
 for more stuff about me, and contacting me please go to: [moxiu.vacpro.fyi](https://moxiu.vacpro.fyi)
+
+[![TG](https://img.shields.io/badge/Telegram-cfelz-cba6f7?style=for-the-badge&logo=telegram&logoColor=ffffff&labelColor=11111b)](https://t.me/cfelz)
