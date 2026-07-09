@@ -12,7 +12,7 @@ well whatever that come's to my mind, Full time Larper
 
 ### my projects
 [**nixos-dots**](https://github.com/cfels/nixos-dots) - my (W.I.P) nixOS dotfiles (they look good check them out!)
-
+[**r34-dl**](https://github.com/cfels/r34-dl) - r34/safebooru downloader with alot of feature's
 that's it so far
 
 ### what i use?
