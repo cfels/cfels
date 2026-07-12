@@ -22,6 +22,6 @@ shell: fish (best shell)<br>
 wm: hyprland
 
 ### Contact
-for more stuff about me, and contacting me (in more ways) please go to: [moxiu.vacpro.fyi](https://moxiu.vacpro.fyi)<br>
-or contact me via tg:<br>
+for more stuff about me, and contacting me please go to: [moxiu.vacpro.fyi](https://moxiu.vacpro.fyi)
+
 <a href="https://t.me/cfelz" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/cfels/cfels/8824bd4b99ce9c05321b164921faf30f6b56243f/assets/tg.svg" alt="Telegram" width="auto"></a>
