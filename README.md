@@ -17,7 +17,7 @@ that's it so far
 
 ### what i use?
 i use NixOS (rest of the stuff is under this line)<br>
-editor: neovim (with lazyvim)<br>
+editors: zed, neovim (with lazyvim)<br>
 shell: fish (best shell)<br>
 wm: hyprland
 
