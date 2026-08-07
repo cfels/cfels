@@ -4,6 +4,9 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=cfels.visitor-badge&left_text=views&left_color=%2311111b&right_color=%23cba6f7&radius=6" />
 </p>
 
+> [!IMPORTANT]
+> i moved all my projects to [Gitea](https://git.vacpro.fyi/moxiu), that means i'm probably not gonna push my work to github anymore.
+
 ### Hi ヾ(＾∇＾)<br>
 **i'm moxiu**<br>
 
