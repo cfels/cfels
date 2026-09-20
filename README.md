@@ -12,7 +12,7 @@ well whatever that come's to my mind, Part time catgirl
 
 ### my projects
 [**nixos-dots**](https://github.com/cfels/nixos-dots) - my NixOS dotfiles <br>
-[**r34-dl**](https://github.com/cfels/r34-dl) - r34/safebooru downloader with alot of feature's <br>
+[**r34-dl**](https://github.com/cfels/r34-dl) - r34/safebooru(also ph. xvids, xhamstr) downloader with alot of feature's <br>
 [**K1NG-Driver**](https://github.com/cfels/K1NG-Driver) - an driver for Redragon K1NG PRO (4k) mouse <br>
 that's it so far
 
