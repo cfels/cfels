@@ -16,6 +16,12 @@ well whatever that come's to my mind, Part time catgirl
 [**K1NG-Driver**](https://github.com/cfels/K1NG-Driver) - an driver for Redragon K1NG PRO (4k) mouse <br>
 that's it so far
 
+### Tools i use
+**Code Editors:** Neovim & VSCode <br>
+**OS:** NixOS <br>
+**Shell:** Fish🐟 <br>
+**WM/DM:** Hyprland/KDE Plasma
+
 ### Contact
 for more stuff about me, and contacting me please go to: [moxiu.vacpro.fyi](https://moxiu.vacpro.fyi)
 
