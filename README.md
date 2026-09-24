@@ -8,7 +8,7 @@
 **i'm moxiu**<br>
 
 what i do?<br>
-well whatever that come's to my mind, Part time catgirl
+well whatever that come's to my mind, Part time horse?
 
 ### my projects
 [**nixos-dots**](https://github.com/cfels/nixos-dots) - my NixOS dotfiles <br>
