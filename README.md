@@ -17,10 +17,10 @@ well whatever that come's to my mind, Part time horse?
 that's it so far
 
 ### Tools i use
-**Code Editors:** Neovim & VSCode <br>
+**Code Editors:** Neovim & VSCodium <br>
 **OS:** NixOS <br>
 **Shell:** Fish🐟 <br>
-**WM/DM:** Hyprland/KDE Plasma
+**WM:** Hyprland
 
 ### Contact
 for more stuff about me, and contacting me please go to: [moxiu.vacpro.fyi](https://moxiu.vacpro.fyi)
