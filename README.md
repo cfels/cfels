@@ -8,13 +8,15 @@
 **i'm moxiu**<br>
 
 what i do?<br>
-well whatever that come's to my mind, Part time horse?
+well whatever that come's to my mind.
 
 ### my projects
 [**nixos-dots**](https://github.com/cfels/nixos-dots) - my NixOS dotfiles <br>
 [**r34-dl**](https://github.com/cfels/r34-dl) - r34/safebooru(also ph. xvids, xhamstr) downloader with alot of feature's <br>
 [**K1NG-Driver**](https://github.com/cfels/K1NG-Driver) - an driver for Redragon K1NG PRO (4k) mouse <br>
-that's it so far
+[**Umadance**](https://github.com/cfels/umadance) - uma's dancing around ur vscode/vscodium <br>
+[**stux-web**](https://github.com/cfels/stux-web) - supertux WASM that runs on github pages<br>
+for more just check [repo's tab](https://github.com/cfels?tab=repositories)
 
 ### Tools i use
 **Code Editors:** Neovim & VSCodium <br>
@@ -23,6 +25,6 @@ that's it so far
 **WM:** Hyprland
 
 ### Contact
-for more stuff about me, and contacting me please go to: [moxiu.vacpro.fyi](https://moxiu.vacpro.fyi)
+for more stuff about me, and contacting me please go to: [vacpro.fyi](https://moxiu.vacpro.fyi)
 
 <a href="https://t.me/cfelz" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/cfels/cfels/8824bd4b99ce9c05321b164921faf30f6b56243f/assets/tg.svg" alt="Telegram" width="auto"></a>
