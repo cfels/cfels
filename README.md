@@ -14,10 +14,6 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=45475A" width="75%">
-
-<br>
-
 ### about
 what do i do?<br>
 whatever comes to mind, but mostly reversing stuff and shit.
