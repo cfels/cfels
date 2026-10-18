@@ -12,6 +12,8 @@
 
 <img src="https://github-stats-extended.vercel.app/api?username=cfels&show_icons=true&include_all_commits=true&title_color=c6d4ff&text_color=c6d4ff&icon_color=c6d4ff&bg_color=11111b&border_color=c6d4ff&border_radius=16&cache_seconds=21600&hide_border=true">
 
+<br>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=45475A" width="75%">
 
 <br>
@@ -19,6 +21,10 @@
 ### about
 what do i do?<br>
 whatever comes to mind, but mostly reversing stuff and shit.
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=45475A" width="75%">
 
 <br>
 
