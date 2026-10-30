@@ -10,6 +10,8 @@
 
 <br><br>
 
+![Views Counter](https://views-counter.vercel.app/badge?pageId=cfels&leftColor=11111b&rightColor=c6d4ff&type=unique&label=Views&style=lower)
+
 <img src="https://github-stats-extended.vercel.app/api?username=cfels&show_icons=true&include_all_commits=true&title_color=c6d4ff&text_color=c6d4ff&icon_color=c6d4ff&bg_color=11111b&border_color=c6d4ff&border_radius=16&cache_seconds=21600&hide_border=true">
 
 <br>
